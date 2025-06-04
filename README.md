@@ -9,7 +9,6 @@ A Testfy é uma empresa especializada em qualidade de software e desenvolvimento
 Na Testfy Brasil, oferecemos serviços como:
 
 - **Testes de Software (QA)**: Automatizados e manuais, com foco em qualidade e prevenção de bugs.
-- **Desenvolvimento de Software**: Web, mobile e sistemas personalizados.
 - **Consultoria Técnica**: Ajudamos empresas a melhorarem seus processos de desenvolvimento e entrega de software.
 - **DevOps e Integrações**: Automatizamos pipelines de CI/CD e otimizamos fluxos de trabalho.
 
