@@ -18,7 +18,7 @@ Este repositório é usado para armazenar projetos, ferramentas internas, provas
 
 - 🔗 Site: [testfybrasil.com](https://www.testfybrasil.com)
 - 📸 Instagram: [@testfybrasil](https://www.instagram.com/testfybrasil)
-- 💼 LinkedIn: [Testfy Brasil](https://www.linkedin.com/company/testfybrasil)
+- 💼 LinkedIn: [Testfy Brasil](https://www.linkedin.com/company/testfybr)
 
 ## 📬 Contato
 
